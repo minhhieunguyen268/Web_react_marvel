@@ -38,7 +38,7 @@ const marvelHeroes = [
 
 export default function HomePage() {
   return (
-    <div style={{ width: '100%', overflow: 'hidden', margin: '60px 0', padding: 0 }}>
+    <div style={{ width: '100%', overflow: 'hidden', margin: '60px 0 0', padding: 0 }}>
       <Swiper
         pagination={{ clickable: true }}
         navigation={true}
